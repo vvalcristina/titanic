@@ -10,7 +10,11 @@ Nesse desafio, pedimos que você construa um modelo preditivo que responda à pe
 
 Link para o [desafio](https://www.kaggle.com/c/titanic/overview).
 
+Algoritmo de Machine Learning: Random Forest
+
 Primeira submissão do desafio 70% de acerto e 34% no ranking:
 ![Captura de tela de 2020-07-20 22-11-37](https://user-images.githubusercontent.com/52939036/88001258-14437a00-cad6-11ea-8c4a-c073b3a428c4.png)
 
+Segunda subminissão do desafio 78% de acerto e 23% no ranking:
+![Captura de tela de 2020-09-07 10-00-20](https://user-images.githubusercontent.com/52939036/92390357-15b21b80-f0f1-11ea-8b63-a3b10eab2049.png)
 
